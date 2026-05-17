@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.log
+*.tmp
+lockout.txt
+price_data.json
+query_history.json
+trade_items.json
+trade_leagues.json
+trade_stats.json
+request_history.json
+.vscode/
+.idea/
