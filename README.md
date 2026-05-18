@@ -1,4 +1,4 @@
-> **WARNING:** An LLM was used to assist in this tool. Trigger warning for things like stupid redundant token wasting emojis in the installation script for example.
+> **WARNING:** An LLM was used to assist in this tool. Trigger warning for things like stupid redundant token wasting emojis in the installation script.
 
 # Path of Trading v1.0
 
