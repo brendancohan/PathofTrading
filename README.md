@@ -2,6 +2,8 @@
 
 # Path of Trading v1.0
 
+![Downloads](https://img.shields.io/github/downloads/brendancohan/PathofTrading/total?style=for-the-badge&color=blue)
+
 A high-performance, Wayland-native Path of Exile 2 price-checking overlay. Built specifically for Linux users, this tool provides instant market pricing without the heavy overhead of Electron, utilizing the Quickshell QtQuick compositor framework for a seamless, native desktop experience.
 
 ## Features
