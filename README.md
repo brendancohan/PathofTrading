@@ -1,5 +1,7 @@
 > **WARNING:** An LLM was used to assist in this tool. Trigger warning for things like stupid redundant token wasting emojis in the installation script.
 
+This script is designed to be forward compatible with POE2. If there is interest for the same application for POE1 players, open an issue and I will work on it. I havent played POE1 in a couple years and am not familiar with whether or not a stable price check solution is lacking.
+
 # Path of Trading v1.0
 
 ![Downloads](https://img.shields.io/github/downloads/brendancohan/PathofTrading/total?style=for-the-badge&color=blue)
