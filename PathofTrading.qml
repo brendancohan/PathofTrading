@@ -20,6 +20,7 @@ import QtQuick
 import QtQuick.Layouts
 import QtQuick.Controls
 import Quickshell
+import Quickshell.Wayland
 import Quickshell.Io
 
 PanelWindow {
@@ -30,6 +31,8 @@ PanelWindow {
     anchors.left: true
     anchors.right: true
     exclusiveZone: 0
+    focusable: true
+    WlrLayershell.keyboardFocus: WlrKeyboardFocus.Exclusive
 
     function s(val) { return val; } // Standard 1:1 scaling for standalone
 
